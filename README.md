@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href="https://github.com/bibeks123">
+  <a href="https://github.com/BibekSubedi5">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7A8B8&width=900&height=60&lines=Hi%2C+I+am+Bibek+Subedi.;A+passionate+Web+Developer+from+Nepal.">
   </a>
 </h1>
