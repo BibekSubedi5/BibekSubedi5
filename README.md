@@ -7,12 +7,6 @@
 
 
 
-
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bibeks123&label=Profile%20views&color=blueviolet&style=flat" alt="bibeks123" /> 
-</p>
-
 <h3 align="left" style="color:white;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/bibek-subedi-343933273/" target="blank">
