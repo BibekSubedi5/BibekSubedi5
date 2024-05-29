@@ -58,13 +58,19 @@
   </a> 
 </p>
 
+<br />
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibeks123&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
+<br /><br /><br /><br /><br /><br />
+
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bibeks123&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
+
+<br /><br /><br />
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibeks123&theme=dark" alt="GitHub Streak" />
