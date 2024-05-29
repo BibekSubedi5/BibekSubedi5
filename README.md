@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
 
+<p align="center">
+  <img src="https://your-gif-or-image-url" alt="Looping text animation" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibeks123&label=Profile%20views&color=0e75b6&style=flat" alt="bibeks123" /> </p>
 
 <h3 align="left">Connect with me:</h3>
