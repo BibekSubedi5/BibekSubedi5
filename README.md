@@ -1,5 +1,13 @@
-<h1 align="center" style="color:white;">Hi 👋, I'm Bibek</h1>
-<h3 align="center" style="color:white;">A passionate Web developer from Nepal</h3>
+
+<h1 align="center">
+  <a href="https://github.com/bibeks123">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7A8B8&width=900&height=60&lines=Hi%2C+I+am+Bibek+Subedi.;A+passionate+Web+Developer+from+Nepal.">
+  </a>
+</h1>
+
+
+
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bibeks123&label=Profile%20views&color=blueviolet&style=flat" alt="bibeks123" /> 
