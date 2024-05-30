@@ -63,17 +63,17 @@
 <br />
 <h3 align="left" style="color:white;">Languages I used :</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibeks123&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibeksubedi5&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <br /><br /><br /><br /><br/> <br />
 <h3 align="left" style="color:white;">GitHub statistics  :</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bibeks123&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bibeksubedi5&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 <br />
 <h3 align="left" style="color:white;">My Contribution  :</h3>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibeks123&theme=dark" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibeksubedi5&theme=dark" alt="GitHub Streak" />
 </p>
